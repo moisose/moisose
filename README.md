@@ -9,7 +9,8 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
  
 
 ## 🧰 Languages:
-  
+
+<!--
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -21,16 +22,17 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)-->
 
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql,css,html,bash,git&perline=9)](https://skillicons.dev)
   
 ## ⚙️ Tools:
+<!--
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <!--![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)-->
   
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai&perline=9)](https://skillicons.dev)
   
 ## OS:
 
@@ -47,4 +49,10 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 <div>
   <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=moisose&show_icons=true&theme=dark">
   <img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisose&layout=compact&theme=dark">
+  
 <div />
+
+---
+
+![](https://komarev.com/ghpvc/?username=moisose&style=flat)
+
