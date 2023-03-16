@@ -32,7 +32,7 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <!--![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)-->
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,docker&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,docker,kubernetes&perline=9)](https://skillicons.dev)
   
 ## OS:
 
