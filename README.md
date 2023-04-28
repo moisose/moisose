@@ -22,7 +22,7 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)-->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql,css,html,bash,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql,css,html,bash,git,md&perline=10)](https://skillicons.dev)
   
 ## ⚙️ Tools:
 <!--
