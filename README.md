@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, I'm Moises! 👋</h1>
 
 I am a Software Engineering student at the Instituto Tecnológico de Costa Rica. I am a creative, friendly and responsible person. I am a hard worker, organized and I like teamwork. I'm always in constant learning, I consider it very important.
-I've worked on projects with C++, Java and Python. I also manage relational databases. Currently I'm also studying front end development with HTML, CSS, Javascript and REACT.
+I've worked on projects with C++, Java and Python. I also manage relational databases and a bit of non-relational. Currently I'm also studying front end development with HTML, CSS, Javascript and REACT.
 I've a Medium Level Diploma in Advertising Design, so I like to combine the programming part with design whenever possible.
 
 ## Contact me:
@@ -22,7 +22,7 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)-->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql,css,html,bash,git,md,react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,mysql,bash,md,javascript,react,css,html&perline=5)](https://skillicons.dev)
   
 ## ⚙️ Tools:
 <!--
@@ -32,7 +32,7 @@ I've a Medium Level Diploma in Advertising Design, so I like to combine the prog
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <!--![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)-->
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,docker,kubernetes&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,firebase,git,vscode,ps,ai&perline=9)](https://skillicons.dev)
   
 ## OS:
 
