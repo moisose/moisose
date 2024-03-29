@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, I'm Mois! 👋</h1>
 
 I am a Software Engineering student at the Instituto Tecnológico de Costa Rica. I am a creative, friendly and responsible person. I am a hard worker, organized and I like teamwork. I'm always in constant learning, I consider it very important.
-I've worked on projects with C++, Java and Python. I also manage relational and non-relational databases. Currently I'm also studying front end development with HTML, CSS, Javascript and REACT.
+I've worked on projects with C++, Java and Python. I also manage relational and non-relational databases. Currently I'm also studying Cloud Computing.
 I've a Medium Level Diploma in Advertising Design, so I like to combine the programming part with design whenever possible.
 
 ## Contact me:
